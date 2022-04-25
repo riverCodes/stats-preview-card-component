@@ -1,0 +1,25 @@
+:root {
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 62.5%;
+}
+body {
+    margin: 0;
+    background-color: lightpink;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+body > * {
+    margin-block-end: .5rem;
+}
+body > main {
+    margin-block: auto;
+}
+main {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
