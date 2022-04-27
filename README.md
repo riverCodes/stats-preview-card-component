@@ -11,8 +11,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -39,6 +37,7 @@ Users should be able to:
 - I started with the mobile design first. I tested out the layout using divs with background colors first.
 - I then inserted the content into the divs. I used CSS Grid for the image and text containers so that they resized accordingly with the screen size.
 - I then started working on the desktop design. Using Grid made it easy to change the layout of the containers. I still had to go back and forth a few times to get the spacing of items correct.
+
 ### Built with
 
 - Semantic HTML5 markup

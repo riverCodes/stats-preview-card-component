@@ -40,7 +40,7 @@ main {
 .image-container::before {
     position: absolute;
     content: "";
-    background-color: rgba(104, 50, 121, 0.7);
+    background-color: rgba(100, 59, 114, 0.8);
     top: 0;
     left: 0;
     bottom: 0;
@@ -101,7 +101,7 @@ span {
     }
     .image-container {
         background-image: url(images/image-header-desktop.jpg);
-        background-size: cover;
+        background-size: fill;
         background-position: 50%;
         background-repeat: no-repeat;
         flex: 1;
